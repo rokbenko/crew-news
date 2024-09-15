@@ -1,0 +1,4 @@
+my-venv
+.streamlit/secrets.toml
+utils/__pycache__
+agentops.log
