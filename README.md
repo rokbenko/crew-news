@@ -125,6 +125,7 @@ Navigate to [http://localhost:8501](http://localhost:8501) to open CrewNews in t
 - [Streamlit](https://pypi.org/project/streamlit/) `1.38.0`
 - [LangChain Python integration for OpenAI SDK](https://pypi.org/project/langchain-openai/) `0.1.23`
 - [CrewAI Python SDK](https://pypi.org/project/crewai/) `0.55.2`
+- [CrewAI Tools Python SDK](https://pypi.org/project/crewai-tools/) `0.12.0`
 - [AgentOps Python SDK](https://pypi.org/project/agentops/) `0.3.10`
 - [Exa Python SDK](https://pypi.org/project/exa-py/) `1.1.0`
 - [Firecrawl Python SDK](https://pypi.org/project/firecrawl-py/) `1.2.3`
