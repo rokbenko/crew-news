@@ -29,6 +29,14 @@ Biases in news reporting can distort public perception, leading to a skewed unde
 
 CrewNews addresses this critical issue by actively sourcing and presenting content from a diverse range of media providers from the United States, ensuring that multiple perspectives are represented in each report. By utilizing advanced AI technologies, CrewNews fosters a more balanced discourse, empowering users to hear all sides of the story for a given question or topic and come closer to the truth.
 
+For example, here's a part of the report that CrewNews generated for the *US Presidential Debate 2024 Harris vs Trump* topic:
+
+> /.../
+> The New York Times reported that Harris also slammed Trump for a social media post in which he thanked Chinese President Xi Jinping for his handling of the Covid-19 pandemic [3]. In contrast, Fox News highlighted Trump's assertion that his leadership style was the reason why China and other countries respected him [4].
+> /.../
+
+If you're a The New York Times reader, Trump === bad. If you're a Fox News reader, Trump === good. Where's the truth? Usually in the middle.
+
 <br>
 
 ## 🚀 Getting started 🚀
