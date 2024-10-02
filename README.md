@@ -2,7 +2,7 @@
  
 # 📰 CrewNews 📰
 
-⚡ Powered by ⚡<br>[Streamlit](https://streamlit.io/) | [Llama 3.1](https://www.llama.com/) | [AIML](https://aimlapi.com/) | [CrewAI](https://www.crewai.com/) | [AgentOps](https://agentops.ai/) | [Exa](https://exa.ai/) | [Firecrawl](https://www.firecrawl.dev/)
+⚡ Powered by ⚡<br>[Streamlit](https://streamlit.io/) &nbsp;|&nbsp; [Llama 3.1](https://www.llama.com/) &nbsp;|&nbsp; [AIML](https://aimlapi.com/) &nbsp;|&nbsp; [CrewAI](https://www.crewai.com/) &nbsp;|&nbsp; [AgentOps](https://agentops.ai/) &nbsp;|&nbsp; [Exa](https://exa.ai/) &nbsp;|&nbsp; [Firecrawl](https://www.firecrawl.dev/)
 
 Enjoying what you find in this repository? Your star ⭐ would be greatly appreciated!
 
@@ -12,7 +12,7 @@ Enjoying what you find in this repository? Your star ⭐ would be greatly apprec
 
 ## 📖 Short description 📖
 
-CrewNews is a [Streamlit](https://streamlit.io/) app designed for delivering an unbiased version of the news for a given question or topic by combining content from media providers from the United States across the political spectrum using [Llama 3.1](https://www.llama.com/) as LLM via [AIML](https://aimlapi.com/), [CrewAI](https://www.crewai.com/) for building AI agents, [AgentOps](https://agentops.ai/) for testing AI agents, [Exa](https://exa.ai/) as a web search tool, and [Firecrawl](https://www.firecrawl.dev/) as a web scraping tool.*
+CrewNews is a [Streamlit](https://streamlit.io/) app designed to generate an unbiased version of the news for a given question or topic by combining content from media providers across the political spectrum in the United States. It uses [Llama 3.1](https://www.llama.com/) as the LLM (inferenced via the [AIML](https://aimlapi.com/)), [CrewAI](https://www.crewai.com/) for building AI agents, [AgentOps](https://agentops.ai/) for testing AI agents, [Exa](https://exa.ai/) as a web search tool, and [Firecrawl](https://www.firecrawl.dev/) as a web scraping tool.*
 
 👉 See the video presentation [here](https://youtu.be/bfU09gsJrsc).<br>
 👉 Try the fully functioning app [here](https://crew-news.streamlit.app/).
