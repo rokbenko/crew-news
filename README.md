@@ -150,20 +150,19 @@ The user begins by entering a specific question or news topic they want to explo
 
 First, CrewNews activates the *Media Expert* agent to source media outlets representing various political viewpoints—left, center, and right. This ensures the collected content offers a balanced range of perspectives, avoiding bias from any single ideological standpoint.
 
-
 3. **Retrieving media provider web domains**
 
 After the media providers are gathered, the *Web Domain Expert* agent identifies and retrieves the web domain URLs of the selected media providers.
 
-3. **Searching for written news content**
+4. **Searching for written news content**
 
 Once the web domain URLs are obtained, the *Written Content Expert* agent utilizes the Exa tool to search for relevant articles from each media provider’s website. CrewNews focuses solely on written content, filtering out videos or images.
 
-4. **Extracting written content**
+5. **Extracting written content**
 
 Following the retrieval of news URLs, the *Text Extractor Expert* agent uses the Firecrawl tool to scrape the full written content from each news article.
 
-5. **Creating unbiased news**
+6. **Creating unbiased news**
 
 Last, the *Unbiased Journalist* agent reviews all gathered content, analyzing how each media outlet reports on the same question or topic. By presenting the viewpoints of left, center, and right media outlets, the agent compiles an unbiased article that offers a complete and balanced perspective. Users can see all sides of the story and form more informed opinions, free from skewed narratives.
 
