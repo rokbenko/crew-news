@@ -217,6 +217,7 @@ Both of these issues could very likely be resolved with further tweaking of the 
 </a>
 
 <br>
+<br>
 
 ## 🤝 Contributing 🤝
 
