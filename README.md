@@ -208,7 +208,13 @@ Both of these issues could very likely be resolved with further tweaking of the 
 
 ## ⭐ Star history ⭐
 
-[![Star history chart](https://api.star-history.com/svg?repos=rokbenko/crew-news&type=Date)](https://star-history.com/#rokbenko/crew-news&Date)
+<a href="https://star-history.com/#rokbenko/crew-news&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rokbenko/crew-news&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rokbenko/crew-news&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rokbenko/crew-news&type=Date" />
+ </picture>
+</a>
 
 <br>
 
